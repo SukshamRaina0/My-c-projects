@@ -1,3 +1,4 @@
+// WAP to make arithematic operations
 #include <stdio.h>
 int main(){
     system("cls");
