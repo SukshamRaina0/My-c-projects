@@ -1,3 +1,4 @@
+//WAP to find area opf rectangle
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
