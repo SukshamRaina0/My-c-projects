@@ -1,3 +1,4 @@
+//WAP to add 3 number.
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
