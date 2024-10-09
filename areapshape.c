@@ -1,3 +1,4 @@
+// WAP to find area and perimeter of circle square and rectangle
 #include<stdio.h>
 int main(){
     system("cls");
