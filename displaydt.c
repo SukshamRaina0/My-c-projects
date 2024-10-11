@@ -1,3 +1,4 @@
+// WAP to take input character,inte
 #include<stdio.h>
 #include<stdlib.h>
 int main(){
